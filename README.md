@@ -17,6 +17,13 @@ Awesome Artefacts and Assets About DeFi Platforms
 
 ## Credit Delegation
 - https://docs.aave.com/developers/guides/credit-delegation
+- https://github.com/ajsantander/aave-credit-delegation
+
+## Liquidation
+- https://github.com/ialberquilla/aave-liquidation
+
+## Aggregated Flash Loan
+- https://github.com/fifikobayashi/Aggregated-Flashloan
 
 # Compound
 
