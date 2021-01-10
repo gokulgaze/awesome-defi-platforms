@@ -3,6 +3,9 @@ Awesome Artefacts and Assets About DeFi Platforms
 
 # AAVE 
 
+## Truffe Box
+- https://github.com/devbootstrap/flashloan-truffle-box-example
+
 ## Market Adpters
 - https://github.com/aave/markets-adapters
 
