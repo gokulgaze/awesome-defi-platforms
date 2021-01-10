@@ -6,11 +6,20 @@ Awesome Artefacts and Assets About DeFi Platforms
 ## Truffe Box
 - https://github.com/devbootstrap/flashloan-truffle-box-example
 
+## Examples 
+- https://github.com/mrdavey/AaveCodeExamples
+
+## Improvement Proposals
+- https://github.com/aave/aip
+
 ## Safety Module
 - https://github.com/aave/safety-module
 
 ## Market Adpters
 - https://github.com/aave/markets-adapters
+
+## Flash Loan Basics
+- https://github.com/johngrantuk/aaveFlashLoan
 
 ## Flash Loan Vault
 - https://github.com/EthereumDeveloperAlliance/flash-loan-open-vault
